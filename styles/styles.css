@@ -1,0 +1,143 @@
+.iconos {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: -30px;
+}
+
+div {
+  background-color: rgb(52, 29, 200);
+}
+
+.iconoss {
+  height: 40%;
+  width: 40px;
+  border-radius: 50%;
+}
+
+h2 {
+  margin: 0;
+  font-style: italic;
+  font-family: Lucida Handwriting;
+}
+
+body {
+  background-color: rgb(246, 93, 5);
+}
+
+.goku {
+  height: 40%;
+  width: 175px;
+  border-radius: 5%;
+}
+
+.texto {
+  display: flex;
+  justify-content: space-between;
+}
+.textoo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(246, 93, 5);
+}
+
+.div {
+  background-color: rgb(5, 166, 246);
+}
+.goku1 {
+  height: 40%;
+  width: 203px;
+  border-radius: 50%;
+}
+.goku2 {
+  height: 40%;
+  width: 215px;
+  border-radius: 50%;
+}
+.goku3 {
+  height: 40%;
+  width: 170px;
+  border-radius: 50%;
+}
+.goku4 {
+  height: 40%;
+  width: 200px;
+  border-radius: 50%;
+}
+.goku5 {
+  height: 40%;
+  width: 243px;
+  border-radius: 50%;
+}
+.goku6 {
+  height: 40%;
+  width: 200px;
+  border-radius: 50%;
+}
+.fotosgoku {
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
+  display: flex;
+}
+
+.autor {
+  height: 50%;
+  width: 300px;
+  margin-top: 5%;
+  border-style: double;
+  border-radius: 60%;
+  margin-top: 0%;
+}
+.aja {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
+}
+.div1 {
+  background-color: rgb(5, 166, 246);
+}
+.div2 {
+  margin-top: 50%;
+}
+h2 {
+  margin-top: 5%;
+}
+.botones {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: space-evenly;
+  height: 60%;
+}
+.boton {
+  background-color: rgb(136, 129, 129); /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
+  border-radius: 4px;
+  border-radius: 8px;
+  border-radius: 12px;
+  border-radius: 50%;
+  transition-duration: 4s;
+  opacity: 1.8;
+  float: left;
+  border: 3px solid rgb(225, 104, 11);
+}
+/*div {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: space-evenly;
+  height: 60%;
+}/*
+.boton {
+  height: 90%;
+  width: 600px;
+
+}
+/* extencion go live */
