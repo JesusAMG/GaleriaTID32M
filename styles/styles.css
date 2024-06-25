@@ -89,7 +89,7 @@ body {
   border-radius: 60%;
   margin-top: 0%;
 }
-.aja {
+.conteiner-creador{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -111,7 +111,7 @@ h2 {
   height: 60%;
 }
 .boton {
-  background-color: rgb(136, 129, 129); /* Green */
+  background-color: rgb(136, 129, 129);
   border: none;
   color: rgb(0, 0, 0);
   padding: 8%;
